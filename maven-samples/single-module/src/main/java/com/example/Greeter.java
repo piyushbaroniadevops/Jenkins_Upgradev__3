@@ -12,15 +12,16 @@ public class Greeter {
 
   }
 
-  
+
   //TODO: Add javadoc comment
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
 
-  
+
   public static void main(String args[]){
-    
-	  System.out.println("Hello from Main Method!!!, this devepolment is taking care by Piyush");
+
+	  System.out.println("Hello from Main Method, myself Piyush!!!");
+
   }
 }
